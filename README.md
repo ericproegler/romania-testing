@@ -26,9 +26,7 @@ Download the JMeter Binary here: https://jmeter.apache.org/download_jmeter.cgi. 
 
 For the workshop, we are using a script from the tutorial BlazeMeter provides here: https://www.blazemeter.com/blog/getting-started-jmeter-basic-tutorial
 
-The working script is here:
-
-Please download it and place it in the /apache-jmeter-5.4.3/bin/examples/ folder. 
+The script files we need are BlazeDemo.jmx and cities.csv, found in this repo. Please download them and place it in the /apache-jmeter-5.4.3/bin/examples/ folder. 
 
 BlazeMeter is a public test cloud for running JMeter scripts at scale, across geographies. I have used it to successfully load test with hundreds of thousands of concurrent users. Learn more at https://www.blazemeter.com/. 
 
