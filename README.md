@@ -22,6 +22,14 @@ Linux: You like being on your own and figuring things out
 
 Download the JMeter Binary here: https://jmeter.apache.org/download_jmeter.cgi. 5.4.3 is the version tested for the workshop
 
+## The JMeter Script
+
+For the workshop, we are using a script from the tutorial BlazeMeter provides here: https://www.blazemeter.com/blog/getting-started-jmeter-basic-tutorial
+
+BlazeMeter is a public test cloud for running JMeter scripts at scale, across geographies. I have used it to successfully load test with hundreds of thousands of concurrent users. Learn more at https://www.blazemeter.com/. 
+
+There are other load tools and test cloud providers, and many of them are excellent.  
+
 ## Thanks
 
 If you did not attend my workshop, I am still willing to help. Find me here https://www.linkedin.com/in/eproegler/ or here https://twitter.com/3r1c_p 
