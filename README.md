@@ -5,26 +5,30 @@ Includes Links to resources, and JMeter code for running tests. If you attended 
 
 ## JMeter Downloads and Dependencioes
 
-This is what you need to participate in this part of the workshop.
+This is what you need to participate in this part of the workshop. If you are blocked by your employer's security requirements or Java depenency issues, please work with a neighbor - we can't spend much time troubleshooting Java.
 
 ### Java 8
-
-You will need Java 8. Java.com link: https://www.java.com/en/download/
-
-If you object to Oracle's licenese, OpenJDK is your best option: https://openjdk.java.net/. 
 
 If you already have Oracle Java, you can check your current Java version in the Java control panel for: 
 Windows: https://www.java.com/en/download/help/win_controlpanel.html 
 Mac: https://www.java.com/en/download/help/mac_controlpanel.html
 Linux: You like being on your own and figuring things out
 
+If you do not already have Java installed, you will need Java 8. Java.com link: https://www.java.com/en/download/.
+
+If you object to Oracle's licenese, OpenJDK is your best option: https://openjdk.java.net/. 
+
 ### JMeter 5.4.3
 
-Download the JMeter Binary here: https://jmeter.apache.org/download_jmeter.cgi. 5.4.3 is the version tested for the workshop
+Download the JMeter Binary here: https://jmeter.apache.org/download_jmeter.cgi. 5.4.3 is the version tested for the workshop. Extract this directory.
 
 ## The JMeter Script
 
 For the workshop, we are using a script from the tutorial BlazeMeter provides here: https://www.blazemeter.com/blog/getting-started-jmeter-basic-tutorial
+
+The working script is here:
+
+Please download it and place it in the /apache-jmeter-5.4.3/bin/examples/ folder. 
 
 BlazeMeter is a public test cloud for running JMeter scripts at scale, across geographies. I have used it to successfully load test with hundreds of thousands of concurrent users. Learn more at https://www.blazemeter.com/. 
 
